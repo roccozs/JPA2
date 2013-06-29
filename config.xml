@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.1.0">
+<preference name="phonegap-version" value="2.9.0" />
+<icon src="icons/icone.png" gap:platform="android" gap:density="ldpi" />
+<icon src="icons/icone2.png" gap:platform="android" gap:density="mdpi" />
+<icon src="icons/icone3.png" gap:platform="android" gap:density="hdpi" />
+<icon src="icons/icone3.png" gap:platform="android" gap:density="xhdpi" />	
+	
+<name>JPA</name>
+
+<description>
+JPA Representações.
+</description>
+
+<author href="https://www.kthese.com" email="rodrigo.rocha@kthese.com">
+Rodrigo Rocha
+</author>
+
+<gap:splash src="images/splash.jpg" />
+
+
+
+</widget>
